@@ -1,0 +1,11 @@
+{
+	"activity": [
+		{
+			"activityTitle": "荣耀双十二嗨购",
+			"activityImg": "../../../static/img/activity-bg1.jpg"
+		}, {
+			"activityTitle": "AI精彩-12.12购狂欢",
+			"activityImg": "../../../static/img/activity-bg2.jpg"
+		}
+	]
+}

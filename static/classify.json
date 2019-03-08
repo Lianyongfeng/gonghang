@@ -1,0 +1,154 @@
+{
+	"classify": [
+		{
+			"nav": [
+				"Mate系列",
+				"P系列",
+				"nova系列",
+				"畅想系列",
+				"平板电脑",
+				"智能穿戴",
+				"荣耀系列"
+			],
+			"product": [
+				{
+					"productDetails": [
+						{
+							"productName": "华为Mate10",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "华为Mate11",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "华为Mate12",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为Mate10",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "华为Mate11",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "华为Mate12",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为Mate10",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "华为Mate11",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "华为Mate12",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为Mate10",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "华为Mate11",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "华为Mate12",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为Mate10",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "华为Mate11",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "华为Mate12",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为Mate10",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "华为Mate11",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "华为Mate12",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}
+					]
+				}, {
+					"productDetails": [
+						{
+							"productName": "华为P20",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为P30",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "华为P10",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}
+					]
+				}, {
+					"productDetails": [
+						{
+							"productName": "华为nova10",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为nova9",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "华为nova11",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}
+					]
+				}, {
+					"productDetails": [
+						{
+							"productName": "畅想10",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "畅想11",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}, {
+							"productName": "畅想20",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}
+					]
+				}, {
+					"productDetails": [
+						{
+							"productName": "S5555",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "G4444",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "Z10000",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}
+					]
+				}, {
+					"productDetails": [
+						{
+							"productName": "watch10",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "watch11",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "watch13",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}
+					]
+				}, {
+					"productDetails": [
+						{
+							"productName": "荣耀5",
+							"productImg": "../../../static/img/classify-product-bg3.jpg"
+						}, {
+							"productName": "荣耀8",
+							"productImg": "../../../static/img/classify-product-bg1.jpg"
+						}, {
+							"productName": "荣耀7",
+							"productImg": "../../../static/img/classify-product-bg2.jpg"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"products":[
+		{
+			"productImg":"../../../static/img/product-bg1.jpg",
+			"text":"Huawei/华为 Mate 20 全 面屏珍珠屏超大广角徕卡",
+			"money":"￥3999.00",
+			"loan":true
+		},
+		{
+			"productImg":"../../../static/img/product-bg2.jpg",
+			"text":"Huawei/华为 Mate 20 全 面屏珍珠屏超大广角徕卡",
+			"money":"￥3999.00",
+			"loan":false
+		},
+		{
+			"productImg":"../../../static/img/product-bg3.jpg",
+			"text":"Huawei/华为 Mate 20 全 面屏珍珠屏超大广角徕卡",
+			"money":"￥3999.00",
+			"loan":false
+		},
+		{
+			"productImg":"../../../static/img/product-bg4.jpg",
+			"text":"Huawei/华为 Mate 20 全 面屏珍珠屏超大广角徕卡",
+			"money":"￥3999.00",
+			"loan":true
+		}
+	]
+}
